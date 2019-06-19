@@ -1,2 +1,2 @@
-# Computer-Vision
-This repository contains models related to Computer Vision problems
+# Computer-Vision-&-Image-Processing
+This repository contains models and solutions related to Computer Vision & Image Processing problems
