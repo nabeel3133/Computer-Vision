@@ -1,4 +1,4 @@
-# Sudoku-Digits-Detection-OpenCV
+# Sudoku Digits Detection 
 Digits detection in Sudoku Grids using OpenCV
 
 | Input Image | Output Image |
