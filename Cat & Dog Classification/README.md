@@ -1,4 +1,4 @@
-#Cat & Dog Classification
+# Cat & Dog Classification
 
 **_Download the [dataset](https://storage.googleapis.com/mledudatasets/cats_and_dogs_filtered.zip)_**
 
